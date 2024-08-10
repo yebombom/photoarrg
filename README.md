@@ -9,7 +9,8 @@
 3. exiftool
 4. tqdm
 
-가상환경 만드는 세팅하는 법
+실행이 안될때는 가상환경에서 실행하세요.
+가상환경 세팅법
 1. python3 -m venv ~/myenv
 2. source ~/myenv/bin/activate
 
